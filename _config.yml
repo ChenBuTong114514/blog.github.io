@@ -80,8 +80,8 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-快捷跳转:
+and:
   [
-    { title: "百度", href: "http://baidu.com/" },
-    { title: "我的GitHub主页", href: "https://github/chenbutong114514/" },
+    { title: "百度", href: "http://baidu.com/" }
+    { title: "我的GitHub主页", href: "https://github/chenbutong114514/" }
   ]
